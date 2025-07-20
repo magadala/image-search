@@ -1,0 +1,15 @@
+torch
+transformers
+faiss-cpu
+numpy
+pillow
+pandas
+tqdm
+fastapi
+uvicorn
+streamlit
+python-multipart
+scikit-learn
+python-dotenv
+
+
